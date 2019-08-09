@@ -18,6 +18,8 @@
         <?php include './eachpost/eachpost.php';?>
         <h1 class="m-4">Create Post</h1>
         <?php include './createpost/createpost.php';?>
+        <h1 class="m-4">Edit Post</h1>
+        <?php include './editpost/editpost.php';?>
     </div>
 
     <script src="public/js/jquery-3.3.1.slim.min.js"></script>
