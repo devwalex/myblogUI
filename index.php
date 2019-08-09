@@ -20,6 +20,10 @@
         <?php include './createpost/createpost.php';?>
         <h1 class="m-4">Edit Post</h1>
         <?php include './editpost/editpost.php';?>
+        <h1 class="m-4">Sign Up</h1>
+        <?php include './signup/signup.php';?>
+        <h1 class="m-4">Log In</h1>
+        <?php include './login/login.php';?>
     </div>
 
     <script src="public/js/jquery-3.3.1.slim.min.js"></script>
